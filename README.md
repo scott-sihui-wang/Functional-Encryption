@@ -12,6 +12,10 @@
 
 `sudo apt-get install libgmp3-dev`
 
-Open the terminal on Ubuntu system. Execute the command `g++ -o FE FE.cpp -lgmp` to compile the code and generate the executable file.
+After that, open the terminal on Ubuntu system. Execute the command `g++ -o FE FE.cpp -lgmp` to compile the code and generate the executable file.
+
+Then, run the command `./FE` to see the outcomes.
 
 ## 3. Demo
+
+![FE Demo](/demo/FE.gif)
