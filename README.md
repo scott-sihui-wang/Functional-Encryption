@@ -2,7 +2,9 @@
 
 ## 1. Introduction
 
-This is the course project for CMPT 789: `Applied Cryptography`.
+This is the course project for CMPT 789: `Applied Cryptography`. This project is to implement a special type of `functional encryption`: `inner product encryption`.
+
+For an overview of `functional encryption` and my implementation, please refer to my [presentation](/demo/ProjectPresentation.pdf)
 
 **Topics:** _Cryptography_, _Functional Encryption with Inner Products_
 
