@@ -8,7 +8,7 @@ For an overview of `functional encryption` and my implementation of `DDH`, pleas
 
 **Topics:** _Cryptography_, _Functional Encryption with Inner Products_
 
-**Skills:** _C++_
+**Skills:** _C++_, _gmp library_
 
 ## 2. How to run the code
 
