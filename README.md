@@ -2,6 +2,8 @@
 
 ## 1. Introduction
 
+This is the course project for CMPT 789: `Applied Cryptography`.
+
 **Topics:** _Cryptography_, _Functional Encryption with Inner Products_
 
 **Skills:** _C++_
