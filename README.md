@@ -22,4 +22,6 @@ Then, run the command `./FE` to see the outcomes.
 
 ## 3. Demo
 
+Each time, randomized keys and messages are generated. The decrypted messages are compared with the desired ground truth messages to verify that our encryption and decryption algorithm is correct.
+
 ![FE Demo](/demo/FE.gif)
